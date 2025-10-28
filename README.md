@@ -42,20 +42,12 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Courses*
 
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
-* [Binary Auditing Course](http://www.binary-auditing.com/)
 * [TiGa's Video Tutorials](http://www.woodmann.com/TiGa/)
-* [Legend of Random](https://tuts4you.com/download.php?list.97)
 * [Practical Malware Analysis](https://samsclass.info/126/126_S17.shtml)
-* [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [RPISEC Malware Course](https://github.com/RPISEC/Malware)
-* [begin.re](https://www.begin.re/)
-* [RE101](https://securedorg.github.io/RE101/)
-* [RE102](https://securedorg.github.io/RE102/)
 * [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
-* [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
 
 ## Channels
 
