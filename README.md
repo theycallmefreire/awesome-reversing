@@ -27,22 +27,8 @@ A curated list of awesome reversing resources
 
 *Reverse Engineering Books*
 
-* [The IDA Pro Book](http://amzn.com/1593272898)
 * [Reverse Engineering for Beginners](http://beginners.re/)
 * [Assembly Language for Intel-Based Computers (5th Edition) ](http://a.co/4OR6I9U)
-* [Practical Reverse Engineering](http://amzn.com/B00IA22R2Y)
-* [Reversing: Secrets of Reverse Engineering](http://amzn.com/B007032XZK)
-* [Practical Malware Analysis](http://amzn.com/1593272901)
-* [Malware Analyst's Cookbook](http://amzn.com/B0047DWCMA)
-* [Gray Hat Hacking](http://amzn.com/0071832386)
-* [The Art of Memory Forensics](http://amzn.com/1118825098)
-* [Hacking: The Art of Exploitation](http://amzn.com/1593271441)
-* [Fuzzing for Software Security](http://amzn.com/1596932147)
-* [Art of Software Security Assessment](http://amzn.com/0321444426)
-* [The Antivirus Hacker's Handbook](http://amzn.com/1119028752)
-* [The Rootkit Arsenal](http://amzn.com/144962636X)
-* [Windows Internals Part 1](http://amzn.com/0735648735) [Part 2](http://amzn.com/0735665877)
-* [Inside Windows Debugging](http://amzn.com/0735662789)
 * [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
 * [The Shellcoders Handbook](http://a.co/6H55943)
 * [A Guide to Kernel Exploitation](http://a.co/aM4cENn)
